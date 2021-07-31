@@ -1,4 +1,4 @@
-# Terrafrom-Minikube-Assignment
+# Terrafrom-Minikube
 
 Steps:
 
